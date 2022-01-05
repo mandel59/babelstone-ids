@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-11-28
+# Date: 2022-01-04
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
@@ -111,7 +111,7 @@
 #	B = UK (UK prefix)
 #	U = Unicode (UTC prefix)
 #	V = Vietnam (V prefix)
-#	UCS2003 = UCS2003 glyph for Ext. B where significantly different from all regional forms
+#	UCS2003 = UCS2003 glyph for Ext. B in the Unicode 13.0 code chart where significantly different from all regional forms (NB the UCS2003 glyphs are no longer listed from Unicode 14.0 onwards)
 #	X = Alternative IDS for same glyph structure
 #	Z = Unifiable variant form that is not the same as any source glyph, but is either attested in some external source or is a plausible glyph form.
 #
@@ -47382,7 +47382,7 @@ U+24CAE	𤲮	^⿰田𢏚$(GT)
 U+24CAF	𤲯	^⿳？田一$(GT)
 U+24CB0	𤲰	^⿰甲冒$(GT)
 U+24CB1	𤲱	^⿺⿱艹？田$(T)
-U+24CB2	𤲲	^⿱異土$(GT)
+U+24CB2	𤲲	^⿱異土$(GT)	^⿱日𡋍$(UCS2003)
 U+24CB3	𤲳	^⿱田禺$(G)
 U+24CB4	𤲴	^⿲田水田$(G)
 U+24CB5	𤲵	^⿰田待$(GT)
@@ -55963,7 +55963,7 @@ U+26E33	𦸳	^⿱莀廾$(GT)
 U+26E34	𦸴	^⿱艹戜$(GT)
 U+26E35	𦸵	^⿱艹䖏$(GT)
 U+26E36	𦸶	^⿱出草$(GT)
-U+26E37	𦸷	^⿱艹𥾭$(GT)
+U+26E37	𦸷	^⿱艹⿰糹瓜$(GT)
 U+26E38	𦸸	^⿱艹⿰禾⿱𠆢木$(GT)
 U+26E39	𦸹	^⿱艹⿲䶹⿹弓冫屮$(GT)
 U+26E3A	𦸺	^⿱艹㭰$(GT)
