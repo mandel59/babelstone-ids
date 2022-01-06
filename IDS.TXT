@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2022-01-04
+# Date: 2022-01-05
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
@@ -19251,7 +19251,7 @@ U+98A4	颤	^⿰亶页$(G)
 U+98A5	颥	^⿰需页$(G)
 U+98A6	颦	^⿱频卑$(G)
 U+98A7	颧	^⿰雚页$(G)
-U+98A8	風	^⿵𠘨䖝$(GHJKTV)
+U+98A8	風	^⿵𠘨䖝$(GJ)	^⿵𠘨⿱一虫$(HT)	^⿵𠘨⿱㇒虫$(KV)
 U+98A9	颩	^⿺風彡$(GHT)
 U+98AA	颪	^⿱下風$(GJK)
 U+98AB	颫	^⿺風夫$(GJT)
