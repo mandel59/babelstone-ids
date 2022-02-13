@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2022-01-16
+# Date: 2022-02-12
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
@@ -36109,7 +36109,7 @@ U+220A5	𢂥	^⿰巾列$(GT)
 U+220A6	𢂦	^⿳⺊日巾$(GT)
 U+220A7	𢂧	^⿰巾任$(G)
 U+220A8	𢂨	^⿱⿰凢凢巾$(G)
-U+220A9	𢂩	^⿰巾𡿫$(GT)
+U+220A9	𢂩	^⿰巾⿱亡巛$(GT)
 U+220AA	𢂪	^⿱𡿫巾$(GT)
 U+220AB	𢂫	^⿸尹⿱⺈巾$(G)	^⿸尹⿱⺈⿵冂丨$(T)
 U+220AC	𢂬	^⿱奴币$(GT)
@@ -84929,7 +84929,7 @@ U+2DF89	𭾉	^⿱⿳由丷八皿$(K)
 U+2DF8A	𭾊	^⿸⿻丨⿻尸一𰤷$(J)
 U+2DF8B	𭾋	^⿱⿰𮍌⿱𠂉二皿$(J)
 U+2DF8C	𭾌	^⿱⿰土⿱𠂉古皿$(K)
-U+2DF8D	𭾍	^⿹气⿱米皿$(S)
+U+2DF8D	𭾍	^⿹气⿱米皿$(S)	^⿱氣皿$(Z)
 U+2DF8E	𭾎	^⿱紋皿$(K)
 U+2DF8F	𭾏	^⿱⿰𮍌古皿$(J)
 U+2DF90	𭾐	^⿸⿻丅⿻尸一𰤷$(J)
@@ -85597,7 +85597,7 @@ U+2E225	𮈥	^⿰糹歪$(G)
 U+2E226	𮈦	^⿰糸⿳卉一夊$(J)	^⿰糹⿳卉一夊$(Z)
 U+2E227	𮈧	^⿰糸匽$(S)	^⿰糹匽$(Z)
 U+2E228	𮈨	^⿰糸⿱𠀐月$(S)	^⿰糹⿱𠀐月$(Z)
-U+2E229	𮈩	^⿰糸虽$(S)	^⿰糹虽$(Z)
+U+2E229	𮈩	^⿰糸虽$(S)	^⿰糹𧈧$(V)	^⿰糹虽$(Z)
 U+2E22A	𮈪	^⿰糸耑$(S)	^⿰糹耑$(Z)
 U+2E22B	𮈫	^⿰糸𬙙$(S)	^⿰糹𬙙$(Z)
 U+2E22C	𮈬	^⿰糸昜$(S)	^⿰糹昜$(Z)
