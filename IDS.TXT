@@ -1,11 +1,11 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2022-02-13
+# Date: 2022-02-14
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
-# 1. This file is compiled from IDS data created by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data in encoding submissions by IRG member bodies. I (Andrew West) have edited the original data and made a large number of changes and corrections. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data. 
+# 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. I (Andrew West) have edited the original data and made a large number of changes and corrections. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data. 
 #
 # 2. This file is not copyrighted, and may be used freely for any purpose without asking permission. Anyone is free to fork the file, or use it as the basis for a new IDS data set.
 #
@@ -37954,7 +37954,7 @@ U+227DA	𢟚	^⿰忄⿱吂月$(V)
 U+227DB	𢟛	^⿱恥弔$(V)
 U+227DC	𢟜	^⿱夏心$(GT)
 U+227DD	𢟝	^⿰忄殷$(GT)
-U+227DE	𢟞	^⿰忄涷$(V)
+U+227DE	𢟞	^⿰忄凍$(V)
 U+227DF	𢟟	^⿰忄⿱百戈$(V)
 U+227E0	𢟠	^⿰忄奞$(GT)
 U+227E1	𢟡	^⿰忄⿱艹⿹勹用$(G)	^⿰忄𤰈$(T)
@@ -58129,7 +58129,7 @@ U+276A9	𧚩	^⿱𥝢衣$(GT)
 U+276AA	𧚪	^⿰衤妾$(GT)
 U+276AB	𧚫	^⿰衤青$(GT)	^⿰衤靑$(Z)
 U+276AC	𧚬	^⿰衤空$(GT)
-U+276AD	𧚭	^⿰衤幷$(GTV)
+U+276AD	𧚭	^⿰衤并$(GTV)	^⿰衤幷$(UCS2003)	U+276AD(V) was ^⿰衤幷$ before Unicode 11.0
 U+276AE	𧚮	^⿰衤隹$(GT)
 U+276AF	𧚯	^⿰衤受$(GT)
 U+276B0	𧚰	^⿳亠叕𧘇$(GT)
@@ -66815,7 +66815,7 @@ U+29897	𩢗	^⿱卭馬$(GT)
 U+29898	𩢘	^⿰馬叵$(GT)
 U+29899	𩢙	^⿱𡗜馬$(GT)
 U+2989A	𩢚	^⿰馬叐$(GT)
-U+2989B	𩢛	^⿰馬匈$(GT)
+U+2989B	𩢛	^⿰馬匃$(GT)	^⿰馬⿹勹⿺𠃊㐅$(UCS2003)	*KX-1436.08 has ⿰馬⿹勹⿺𠃊㐅 but that is an error for ⿰馬匃
 U+2989C	𩢜	^⿰馬尒$(GT)
 U+2989D	𩢝	^⿰馬片$(GT)
 U+2989E	𩢞	^⿰馬卭$(GT)
