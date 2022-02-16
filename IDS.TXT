@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2022-02-14
+# Date: 2022-02-15
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
@@ -2021,7 +2021,7 @@ U+5556	啖	^⿰口炎$(GHJKT)
 U+5557	啗	^⿰口臽$(GHJKT)
 U+5558	啘	^⿰口宛$(GJKT)
 U+5559	啙	^⿱此吅$(GKT)
-U+555A	啚	^⿳口十回$(GJKV)	^⿱口㐭$(T)
+U+555A	啚	^⿳口十回$(GV)	^⿳口丄回$(JK)	^⿱口㐭$(MT)
 U+555B	啛	^⿰口妻$(GJKTV)
 U+555C	啜	^⿰口叕$(GHJKTV)
 U+555D	啝	^⿰口和$(GHJKT)
