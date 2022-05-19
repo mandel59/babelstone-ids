@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 14.0 [September 2021] (92,865 entries)
-# File Date: 2022-05-11
+# File Date: 2022-05-18
 #
 # NB seven commented-out entries starting #U+ are for Unicode 15.0 [September 2022] changes and additions (https://www.unicode.org/charts/PDF/Unicode-15.0/)
 #
@@ -51813,7 +51813,7 @@ U+25DF2	𥷲	^⿱𥫗⿰彳䰻$(GT)
 U+25DF3	𥷳	^⿱𥫗齕$(G)
 U+25DF4	𥷴	^⿱𥫗⿰羍訇$(T)
 U+25DF5	𥷵	^⿳笀罒⿰耳𫧇$(T)
-U+25DF6	𥷶	^⿳笀罒⿲月女凡$(T)
+U+25DF6	𥷶	^⿱𥫗𫲓$(T)
 U+25DF7	𥷷	^⿱𥫗⿰臣⿳𠂉丶品$(T)
 U+25DF8	𥷸	^⿱𥫗𦔡$(GT)
 U+25DF9	𥷹	^⿱⿰竹竹⿰竹竹$(G)
