@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 14.0 [September 2021] (92,865 entries)
-# File Date: 2022-05-18
+# File Date: 2022-05-19
 #
 # NB seven commented-out entries starting #U+ are for Unicode 15.0 [September 2022] changes and additions (https://www.unicode.org/charts/PDF/Unicode-15.0/)
 #
@@ -18096,7 +18096,7 @@ U+941D	鐝	^⿰釒厥$(GHT)
 U+941E	鐞	^⿰釒尋$(GT)
 U+941F	鐟	^⿰釒替$(GJT)
 U+9420	鐠	^⿰釒普$(GHKT)
-U+9421	鐡	^⿰釒𧯥$(GJKM)
+U+9421	鐡	^⿰釒⿹𢦏⿱口䒑$(GJKM)
 U+9422	鐢	^⿱棥金$(GT)
 U+9423	鐣	^⿰釒掌$(GT)
 U+9424	鐤	^⿰釒鼎$(GHT)
@@ -67076,7 +67076,7 @@ U+29991	𩦑	^⿰馬𠷎$(GT)
 U+29992	𩦒	^⿰馬厥$(G)
 U+29993	𩦓	^⿰馬開$(V)
 U+29994	𩦔	^⿰馬⿵門巿$(T)	*U+29994(T)≡U+299B4(G)
-U+29995	𩦕	^⿰馬𧯥$(T)
+U+29995	𩦕	^⿰馬⿹𢦏⿱口䒑$(T)
 U+29996	𩦖	^⿰馬巽$(T)
 U+29997	𩦗	^⿰馬萃$(T)
 U+29998	𩦘	^⿰馬⿱龷隹$(G)
