@@ -74638,7 +74638,7 @@ U+2B736	𫜶	^⿰⺼敦$(VU)	^⿰月敦$(Z)	*U+2B736≠U+3B3F
 U+2B737	𫜷	^⿰寿阝$(G)
 U+2B738	𫜸	^⿰口匕$(GT)
 # Unicode version 15.0 [September 2022] additions (1 character)
-#U+2B739	𫜹		^⿻{50}一$(MUV)
+#U+2B739	𫜹	^⿻{50}一$(MUV)
 # CJK Unified Ideographs Extension D (222 characters)
 # Unicode version 6.0 [October 2010] additions (222 characters)
 U+2B740	𫝀	^𫝀$(J)	^⊖五一$(X)
