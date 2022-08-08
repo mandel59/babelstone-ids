@@ -1,2 +1,2 @@
 #!/bin/sh
-curl -O https://www.babelstone.co.uk/CJK/IDS.TXT
+curl -o IDS.TXT https://www.babelstone.co.uk/CJK/IDS_15.TXT

@@ -5,19 +5,21 @@ on:
   workflow_dispatch: {}
   push:
     paths:
-      - .github/workflows/flat.yml
+      - .github/workflows/flat15.yml
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.x
+      # - name: Setup deno
+      #   uses: denoland/setup-deno@main
+      #   with:
+      #     deno-version: v1.x
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          ref: unicode15
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://www.babelstone.co.uk/CJK/IDS.TXT
+          http_url: https://www.babelstone.co.uk/CJK/IDS_15.TXT
           downloaded_filename: IDS.TXT
