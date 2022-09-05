@@ -3,14 +3,14 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-09-01
+# File Date: 2022-09-04
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
 #
 # 2. Under U.S. copyright law, data (i.e. a collection of facts) is not eligible to copyright protection (see https://sco.library.emory.edu/research-data-management/publishing/copyright-data.html), and as IDS descriptions for CJK ideographs are facts not original creative compositions, IDS sequences in themselves are not eligible for copyright protection (that is to say, you could no more copyright 彼 = ⿰彳皮 than you could copyright 1 + 1 = 2). Therefore, anyone is free to make use of the IDS data provided in this file for personal or commercial purposes without asking permission or providing attribution. I furthermore waive any copyright claims to the presentation format of the IDS data used in this file, so anyone is free to fork the file, or use it as the basis for a new IDS data set.
 #
-# 3. This version of the file provides IDS sequences for the 97,058 CJK unified ideographs defined in Unicode version 15.0 (released on XX September 2022), covering unified ideographs in the main CJK Unified Ideographs block (URO), the CJK Compatibility Ideographs block (12 characters only), and CJK Unified Ideographs Extensions A through H. This file does not define IDS sequences for any CJK compatibility ideographs. IDS sequences for unencoded characters present in the BabelStone Han PUA font are available at <https://babelstone.co.uk/CJK/IDS_PUA.TXT>.
+# 3. This version of the file provides IDS sequences for the 97,058 CJK unified ideographs defined in Unicode version 15.0 (released on 13 September 2022), covering unified ideographs in the main CJK Unified Ideographs block (URO), the CJK Compatibility Ideographs block (12 characters only), and CJK Unified Ideographs Extensions A through H. This file does not define IDS sequences for any CJK compatibility ideographs. IDS sequences for unencoded characters present in the BabelStone Han PUA font are available at <https://babelstone.co.uk/CJK/IDS_PUA.TXT>.
 #
 # 4. IDS sequences start with ^ and end with $. Some characters have more than one tab-separated IDS sequence, corresponding to different regional forms of the character, as described below.
 #
@@ -25,6 +25,7 @@
 #	↷ = Rotation operator (unary): the operand is rotated 180° (e.g. ↷了 = 𠄏).
 #	⊖ = Subtraction operator (binary): indicates that the stroke or component represented by the second operand is removed from the character represented by the first operand, for example ⊖東㇒ = 𬻌. This is effectively the opposite of the overlay operator (⿻), and like the overlay operator it may be ambiguous (e.g. ⊖心丶 for 𢖩 does not specify which of the two dots is removed from 心).
 #	0..9 in curly brackets {} representing unencoded components (see below).
+# NB The mirror operator, rotation operator, and subtraction operator are unofficial extensions, but these three operators have been proposed for encoding as IDC characters (see <https://www.unicode.org/L2/L2022/22191-five-new-idc-chars.pdf>), and it is hoped that they will be available in Unicode version 16.0.
 #
 # 6. Unencoded Components are represented as a two-digit number between curly brackets (the corresponding PUA character in the "BabelStone Han PUA" font is given in parentheses).
 # To create an IDS set with no numbered components, globally replace all numbered components with the IDS fragments given in the final column below (some components are replaced with approximate equivalents).
@@ -10213,7 +10214,7 @@ U+751B	甛	^⿰甘舌$(GKT)
 U+751C	甜	^⿰舌甘$(GHJKT)
 U+751D	甝	^⿺虎甘$(GHT)
 U+751E	甞	^⿱𫩠甘$(GHJKT)
-U+751F	生	^⿰㇒龶$(GHJKTV)	^⿻𠂉土$(GHJKTV)
+U+751F	生	^⿰㇒龶$(GHJKTV)	^⿻𠂉土$(X)
 U+7520	甠	^⿰日生$(GJT)
 U+7521	甡	^⿰生生$(GHJKT)
 U+7522	產	^⿳亠㐅𰆘$(GHT)
@@ -13460,7 +13461,7 @@ U+81CA	臊	^⿰月喿$(GJK)	^⿰⺼喿$(HT)
 U+81CB	臋	^⿱殿肉$(GJT)
 U+81CC	臌	^⿰月鼓$(GK)	^⿰⺼鼓$(HT)
 U+81CD	臍	^⿰月齊$(GJK)	^⿰⺼齊$(HT)
-U+81CE	臎	^⿰月翠$(GJT)	^⿰⺼翠$(T)
+U+81CE	臎	^⿰月翠$(GJK)	^⿰⺼翠$(T)
 U+81CF	臏	^⿰月賓$(GJK)	^⿰⺼賓$(HT)
 U+81D0	臐	^⿰月熏$(GK)	^⿰⺼熏$(HT)
 U+81D1	臑	^⿰月需$(GJK)	^⿰⺼需$(HT)
@@ -95036,7 +95037,7 @@ U+31ADF	𱫟	^⿰⿱{42}火生$(V)	^⿰灵生$(Z)
 U+31AE0	𱫠	^⿱南灬$(K)
 U+31AE1	𱫡	^⿱⿰⿱𰀁𠫔{20}火$(T)	^⿱⿰⿱𰀁𠫔丸火$(Z)
 U+31AE2	𱫢	^⿵咸灬$(T)
-U+31AE3	𱫣	^⿰火⿱覀⿻乚⿰丶丶$(T)	^⿰火⿱覀⊖心㇒$(T)
+U+31AE3	𱫣	^⿰火⿱覀⿻乚⿰丶丶$(T)	^⿰火⿱覀⊖心㇒$(X)
 U+31AE4	𱫤	^⿱⿰男力灬$(T)
 U+31AE5	𱫥	^⿱⿰日𮎛灬$(T)
 U+31AE6	𱫦	^⿰火⿱夂羊$(T)
