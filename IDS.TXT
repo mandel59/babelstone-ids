@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-09-04
+# File Date: 2022-09-20
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -68564,7 +68564,7 @@ U+29F2C	𩼬	^⿰魚蒪$(GT)
 U+29F2D	𩼭	^⿱㼲魚$(GT)
 U+29F2E	𩼮	^⿰⿱共魚⿱又有$(GT)
 U+29F2F	𩼯	^⿰魚團$(G)
-U+29F30	𩼰	^⿰魚⿳艹𢆶心$(H)
+U+29F30	𩼰	^⿰魚⿱茲心$(H)	^⿰魚慈$(Z)
 U+29F31	𩼱	^⿰魚⿱束貝$(T)
 U+29F32	𩼲	^⿰魚慐$(T)
 U+29F33	𩼳	^⿰魚監$(T)
@@ -79190,7 +79190,7 @@ U+2C8CC	𬣌	^⿰謀卯$(V)
 U+2C8CD	𬣍	^⿰訁團$(G)
 U+2C8CE	𬣎	^⿰論全$(V)
 U+2C8CF	𬣏	^⿱⿴𦥑角言$(G)
-U+2C8D0	𬣐	^⿰訁慈$(J)
+U+2C8D0	𬣐	^⿰訁⿱茲心$(J)	^⿰訁慈$(Z)
 U+2C8D1	𬣑	^⿰訁翟$(T)
 U+2C8D2	𬣒	^⿰訁暮$(T)
 U+2C8D3	𬣓	^⿰訁⿱進大$(G)
