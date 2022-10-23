@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-10-21
+# File Date: 2022-10-22
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -45579,7 +45579,7 @@ U+24562	𤕢	^⿱𢼂女$(GT)
 U+24563	𤕣	^⿻⿴囗㸚乚$(GT)
 U+24564	𤕤	^⿳⿻十㸚一八$(GT)	^⿳⿻十𠈌一八$(V)
 U+24565	𤕥	^⿰爻⿱匕見$(GT)
-U+24566	𤕦	^⿱吅⿰⿱⿹𠃍工匚爻$(GT)
+U+24566	𤕦	^⿱吅⿰⿻己工爻$(GT)
 U+24567	𤕧	^⿱吅⿻乂⿰工爻$(GT)
 U+24568	𤕨	^⿱𠆢⿻丷⿻丨⿻冂㸚$(GT)
 U+24569	𤕩	^⿱棥𠬜$(GT)
@@ -56637,7 +56637,7 @@ U+27094	𧂔	^⿱艹縠$(GT)
 U+27095	𧂕	^⿱蒿老$(GT)
 U+27096	𧂖	^⿱艹𨨖$(GT)
 U+27097	𧂗	^⿱艹⿰仌尋$(GT)
-U+27098	𧂘	^⿳艹吅⿰⿻己工爻$(GT)
+U+27098	𧂘	^〾⿱艹𤕦$(G)	^⿱艹𤕦$(T)	*U+27098≡U+270F1
 U+27099	𧂙	^⿱艹潟$(GT)
 U+2709A	𧂚	^⿱䔘皿$(GT)
 U+2709B	𧂛	^⿱艹甍$(GT)
@@ -56726,7 +56726,7 @@ U+270ED	𧃭	^⿰⿳艹{50}⿵冂支⿱⺊困$(G)
 U+270EE	𧃮	^⿱艹燐$(GT)
 U+270EF	𧃯	^⿱薩子$(GT)
 U+270F0	𧃰	^⿳艹⿲止自巳⿱𠘧夊$(G)	^⿳艹⿲止自巳⿱八夊$(HMTV)
-U+270F1	𧃱	^⿱艹𤕦$(G)
+U+270F1	𧃱	^〾⿱艹𤕦$(G)	*U+270F1≡U+27098
 U+270F2	𧃲	^⿱艹糜$(GV)
 U+270F3	𧃳	^⿱艹𧜼$(G)
 U+270F4	𧃴	^⿱艹縮$(J)
