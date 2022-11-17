@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-11-15
+# File Date: 2022-11-16
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -1722,7 +1722,7 @@ U+53ED	叭	^⿰口八$(GHJKTV)
 U+53EE	叮	^⿰口丁$(GHJKTV)
 U+53EF	可	^⿹丁口$(GHJKTV)
 U+53F0	台	^⿱厶口$(GHJKTV)
-U+53F1	叱	^⿰口𠤎$(GHJKT)	^⿰口七$(V)	*U+53F1(V)=U+20B9F;U+53F1(V) was ^⿰口𠤎$ before Unicode 11.0
+U+53F1	叱	^⿰口𠤎$(GHJKT)	^⿰口七$(V)	*U+53F1(V)=U+20B9F(GJ);U+53F1(V) was ^⿰口𠤎$ before Unicode 11.0
 U+53F2	史	^⿻⿻口丿乀$(GHJKTV)
 U+53F3	右	^⿸𠂇口$(GHJKTV)
 U+53F4	叴	^⿱九口$(GJKT)
@@ -30789,7 +30789,7 @@ U+20B9B	𠮛	^⿱一口$(GT)
 U+20B9C	𠮜	^⿰口乚$(GT)
 U+20B9D	𠮝	^⿰口丨$(T)
 U+20B9E	𠮞	^⿺乙口$(GT)
-U+20B9F	𠮟	^⿰口七$(GHJ)	*U+20B9F=U+53F1(V)
+U+20B9F	𠮟	^⿰口七$(GJ)	^⿰口⿻乚一$(H)	*U+20B9F(GJ)=U+53F1(V)
 U+20BA0	𠮠	^⿱口勹$(GT)
 U+20BA1	𠮡	^⿱口二$(GT)
 U+20BA2	𠮢	^⿱又口$(GT)
@@ -93459,7 +93459,7 @@ U+314B3	𱒳	^⿰口狂$(B)
 U+314B4	𱒴	^⿰口估$(B)
 U+314B5	𱒵	^⿰口役$(V)
 U+314B6	𱒶	^⿰口闷$(G)
-U+314B7	𱒷	^⿱⿱亠土𫜸$(K)
+U+314B7	𱒷	^⿱⿱亠土𫜸$(K)	^⿱主𫜸$(Z)
 U+314B8	𱒸	^⿰口𰿩$(B)
 U+314B9	𱒹	^⿰口汲$(V)
 U+314BA	𱒺	^⿰口沚$(V)
