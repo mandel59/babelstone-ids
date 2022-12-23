@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-12-21
+# File Date: 2022-12-22
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -80796,7 +80796,7 @@ U+2CF16	𬼖	^⿷匸一$(J)
 U+2CF17	𬼗	^⿸{39}乚$(J)
 U+2CF18	𬼘	^？$(J)
 U+2CF19	𬼙	^⿻⿰七七乚$(J)
-U+2CF1A	𬼚	^⿻比乚$(J)
+U+2CF1A	𬼚	^⿰匕𪟨$(J)
 U+2CF1B	𬼛	^⿱之乙$(K)
 U+2CF1C	𬼜	^⿱⺈也$(J)
 U+2CF1D	𬼝	^⿱去乙$(K)
