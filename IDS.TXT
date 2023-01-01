@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-12-22
+# File Date: 2022-12-31
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -30,12 +30,12 @@
 # 6. Unencoded Components are represented as a two-digit number between curly brackets (the corresponding PUA character in the "BabelStone Han PUA" font is given in parentheses).
 # To create an IDS set with no numbered components, globally replace all numbered components with the IDS fragments given in the final column below (some components are replaced with approximate equivalents).
 #	{1}	bottom of 廌焉舃 (F2A5 )	⿹⿺㇉一灬
-#	{2}	top of 免象 (F2A6 )	⿱⺈𫩏
+#	{2}	top of 免象 (F0CF )	⿱⺈𫩏
 #	{3}	top of 夐 (F2A7 )	⿱⺈⿵冂人
 #	{4}	top of 䝉𫎇 (F313 )	⿱⿻⿰丨丨丷冖
 #	{5}	left of 叚 (F2A9 )	？
 #	{6}	left of 段 (F2AA )	？
-#	{7}	top of 專惠 (F4F3 )	⿻䖝一
+#	{7}	top of 專惠 (F4F3 )	？
 #	{8}	right of 扥 (F2AB )	⿻⿱㇒一乚
 #	{9}	right of 𪟳𪝪 (F2AC )	⿱⿰㇒㇖丨
 #	{10}	right of 巩 [T source glyph] (F2A8 )	⿻⿻㇈丿丶
@@ -61,10 +61,10 @@
 #	{30}	top of 彔 (F2F5 )	？
 #	{31}	bottom of 卥 (F2BF )	⿴囗⿻𰀪丶
 #	{32}	top of 𣓝 (F5FD )	⿱⿻𠮛⿰丨丨冖
-#	{33}	bottom of 雋 (F2C1 )	/
+#	{33}	bottom of 雋 (F2C1 )	？
 #	{34}	bottom of 䇖 (F2B2 )	⿹勹丿
 #	{35}	right of 𠖵 (F2C3 )	⿻几𠄠
-#	{36}	top of 𠢘㥑 (F2C4 )	/
+#	{36}	top of 𠢘㥑 (F2C4 )	
 #	{37}	top of 睿 (F2B6 )	⿱⺊冖
 #	{38}	top of 橐 (F2B9 )	⿱𰀉冖
 #	{39}	left of 卬 (F2C7 )	？
@@ -74,7 +74,7 @@
 #	{43}	top of 㚑 (F2A4 )	⺕
 #	{44}	top of 孛 (F2C9 )	⿱十冖
 #	{45}	left of 北 [G source glyph] (F5FB )	？
-#	{46}	bottom of 竜 (F2B7 )	⿻日乚
+#	{46}	bottom of 竜 (EC30 )	⿻日乚
 #	{47}	outside of 鳥島 (F2CA )	？
 #	{48}	bottom of 年 [J-form of 㐄] (F5FC )	㐄
 #	{49}	left of 帅 (F2D2 )	⿰丨丿
@@ -110,7 +110,7 @@
 #	{79}	亞 without the top stroke (F5E1 )	？
 #	{80}	top of 罙 [G source glyph] (ECE6 )	⿱冖八
 #	{81}	inner part of 𮭷 (ECE7 )	？
-#	{82}	top of 書 (ECE8 )	⿱𦘒一
+#	{82}	top of 書 (F2E3 )	⿱𦘒一
 #	{83}	top of 帝 (ECE9 )	⿳亠丷冖
 #	{84}	厂 with hooked stroke (ECEA )	⿰丿乛
 #	{85}	广 with hooked stroke (ECEB )	⿰丿⿱丶乛
@@ -121,12 +121,12 @@
 #	{90}	core of 龜 [G source glyph] (F5F8 )	？
 #	{91}	core of 黽 (F5F9 )	？
 #	{92}	core of 𪚧 (F5FA )	？
-#	{93}	bottom of 亀 (ECEF )	⿻昌乚
+#	{93}	right of 縄 (ECEF )	⿻昌乚
 #	{94}	top of 其 (ECF0 )	？
 #	{95}	bottom of 𢀞 (ECF1 )	⿻尸一
 #	{96}	outside of 𭾐 (ECF2 )	？
 #	{97}	bottom right of 𮊫 or right of 戠 without horizontal stroke (ECF3 )	？
-#	{98}	top of 曹 (ECF4 )	⿻一曲
+#	{98}	top of 曹 (F5DE )	⿻一曲
 #	{99}	top of 𢘼 (ECF5 )	⿻𦉫𠄠
 #	{100}	之 without top stroke (F3BE )	？
 #	{101}	left of 癶 (ECF6 )	？
@@ -138,7 +138,7 @@
 #	{107}	middle of 𡙌 (ECFC )	？
 #	{108}	top of 冎 [G source glyph] (ECFD )	？
 #	{109}	left of 刋 (ECFE )	⿻⿱㇒一丿
-#	{110}	outside of 𭁟 (EF30 )	冂
+#	{110}	outside of 𭁟 (F29E )	冂
 #	{111}	inside of 𭁟 (EF31 )	？
 #	{112}	outside of 𦥓 (EF32 )	？
 #	{113}	bottom of 𠕉 (EF33 )	⿵冂八
@@ -146,7 +146,7 @@
 #	{115}	top of 𫭣 (EF35 )	⿻𰀪⺀
 #	{116}	inside top of 鹿慶 (EF36 )	？
 #	{117}	inside of 𠣏 [G source glyph] (EF37 )	⿺𠃊⺊
-#	{118}	outside of 𠁅 (ECFF )
+#	{118}	outside of 𠁅 (ECFF )	？
 #	{119}	right of 𥛈 (F2E5 )	⿻己⿱工工
 #	{120}	right of 𤛒 without 口 (F2CC )	⿻弓⿱{50}匚
 #	{121}	top of 𣬋 (F5DF )	⿱⺈罒
@@ -3041,9 +3041,9 @@ U+590E	夎	^⿱坐夊$(GHKT)
 U+590F	夏	^⿱𦣻夊$(GHJKT)
 U+5910	夐	^⿱{3}𡕥$(GJKT)
 U+5911	夑	^⿱⿲火言火夊$(GHT)
-U+5912	夒	^⿱⿸⿹頁止巳夊$(GHJKT)
-U+5913	夓	^⿱⿴𦥑頁夊$(GJT)
-U+5914	夔	^⿱丷夒$(GHJKT)
+U+5912	夒	^⿳⿸⿹𦣻止巳八夊$(GHT)	^⿳⿸⿹𦣻止巳儿夊$(J)	^⿱⿸⿹頁止㔾夊$(K)	^⿱一⿳⿲止自巳八夊$(X)	*U+5912(K) was ^⿳⿸⿹𦣻止巳儿夊$ in Unicode 5.2
+U+5913	夓	^⿳⿴𦥑𦣻八夊$(G)	^⿳⿴𦥑𦣻儿夊$(JT)	^⿱⿴𦥑頁夊$(Z)	^⿱⿴𦥑𩑋夊$(Z)
+U+5914	夔	^⿱丷夒$(GHJT)	^⿱丷⿱⿸⿹𩑋止㔾夊$(K)
 U+5915	夕	^⿴𠂊丶$(GHJKTV)
 U+5916	外	^⿰夕卜$(GHJKTV)
 U+5917	夗	^⿰夕㔾$(GHKT)
@@ -4253,7 +4253,7 @@ U+5DCA	巊	^⿰山嬰$(GT)
 U+5DCB	巋	^⿱山歸$(GHJKT)
 U+5DCC	巌	^⿱山厳$(GJKMT)
 U+5DCD	巍	^⿱山魏$(GHJKTV)
-U+5DCE	巎	^⿰山夒$(GJKT)
+U+5DCE	巎	^⿰山夒$(GJT)	^⿰山⿱⿸⿹𩑋止巳夊$(K)
 U+5DCF	巏	^⿰山雚$(GHKT)
 U+5DD0	巐	^⿱山髜$(GJT)
 U+5DD1	巑	^⿰山贊$(GHJKT)
@@ -4275,7 +4275,7 @@ U+5DE0	巠	^⿳一巛工$(GHJKT)
 U+5DE1	巡	^⿺辶巛$(GHJKTV)
 U+5DE2	巢	^⿱巛果$(GHJKTV)
 U+5DE3	巣	^⿱𭕄果$(GJT)
-U+5DE4	巤	^⿳巛龱{16}$(GJKT)
+U+5DE4	巤	^⿳巛龱{16}$(G[H]JKT[BV])	^⿳巛囚{16}$([T])
 U+5DE5	工	^⿱丅一$(GHJKTV)
 U+5DE6	左	^⿸𠂇工$(GHJKTV)
 U+5DE7	巧	^⿰工丂$(GHJKTV)
@@ -6283,7 +6283,7 @@ U+65B8	斸	^⿰屬斤$(GHJKT)
 U+65B9	方	^⿱丶万$(GHJKTV)
 U+65BA	斺	^⿰方介$(GT)
 U+65BB	斻	^⿰方⿱𠂉几$(GHT)	^⿸𭤨几$(X)
-U+65BC	於	^⿰方仒$(GHJKTV)
+U+65BC	於	^⿰方仒$(GJKTV)	^⿰方⿱𠂉⺀$(H)	^⿸𭤨⺀$(X)
 U+65BD	施	^⿰方㐌$(GHJKTV)	^⿸𭤨也$(X)
 U+65BE	斾	^⿰方⿱𠂉巾$(GHT)	^⿸𭤨巾$(X)
 U+65BF	斿	^⿰方⿱𠂉子$(GHJKT)	^⿸𭤨子$(X)
@@ -9806,7 +9806,7 @@ U+737B	獻	^⿰鬳犬$(GHJKTV)
 U+737C	獼	^⿰犭彌$(GHJKT)
 U+737D	獽	^⿰犭襄$(GHKT)
 U+737E	獾	^⿰犭雚$(GHKT)
-U+737F	獿	^⿰犭夒$(GHKT)
+U+737F	獿	^⿰犭夒$(GHT)	^⿰犭⿳⿸⿹𦣻止巳八夊$(K)
 U+7380	玀	^⿰犭羅$(GHJKT)
 U+7381	玁	^⿰犭嚴$(GHJKT)
 U+7382	玂	^⿰犭蘄$(GHKT)
@@ -10298,7 +10298,7 @@ U+7567	畧	^⿱田各$(GHJKT)
 U+7568	畨	^⿱米田$(GT)
 U+7569	畩	^⿰田衣$(GJ)
 U+756A	番	^⿱釆田$(GHJKTV)
-U+756B	畫	^⿳{82}田一$(GHJKTV)
+U+756B	畫	^⿱𤱪一$(GHJKTV)	^⿳{82}田一$(X)
 U+756C	畬	^⿱余田$(GHJKT)
 U+756D	畭	^⿰田余$(GHJKT)
 U+756E	畮	^⿰田每$(GHT)
@@ -10968,7 +10968,7 @@ U+7805	砅	^⿰石水$(GHJKT)
 U+7806	砆	^⿰石夫$(GHJKT)
 U+7807	砇	^⿰石文$(GKT)
 U+7808	砈	^⿰石厄$(GHT)
-U+7809	砉	^⿱丰石$(GHJKT)
+U+7809	砉	^⿱丰石$(GHKT)	^⿱丯石$(J)
 U+780A	砊	^⿰石亢$(GKT)
 U+780B	砋	^⿰石止$(GKT)
 U+780C	砌	^⿰石切$(GHJKT)
@@ -14608,7 +14608,7 @@ U+863D	蘽	^⿱艹櫐$(GJKT)
 U+863E	蘾	^⿱艹壞$(GHKT)
 U+863F	蘿	^⿱艹羅$(GHJKTV)
 U+8640	虀	^⿱艹韲$(GHJKT)
-U+8641	虁	^⿱艹夒$(GT)	^⿱卝夒$(J)	^⿱艹夔$(K)	*U+8641(J)=U+21582;U+8641(K)=U+27144
+U+8641	虁	^⿱艹夒$(G)	^⿱艹⿳⿸⿹𦣻止㔾八夊$(T)	^⿱卝夒$(J)	^⿱艹⿱丷夒$(K)	*U+8641(J)=U+21582;U+8641(K)=U+27144;U+8641(K) was ^⿱艹⿳⿸⿹𦣻止匕儿夊$ in Unicode 5.2
 U+8642	虂	^⿱艹露$(GHJT)
 U+8643	虃	^⿱艹瀸$(GHKT)
 U+8644	虄	^⿱艹⿰虫⿱夂産$(G)	^⿱艹⿰虫⿱夂產$(K)
@@ -15083,7 +15083,7 @@ U+8818	蠘	^⿰虫截$(GHJKT)
 U+8819	蠙	^⿰虫賓$(GHJKT)
 U+881A	蠚	^⿱若䖵$(GJKT)
 U+881B	蠛	^⿰虫蔑$(GHJKTV)
-U+881C	蠜	^⿱樊虫$(GHJKT)
+U+881C	蠜	^⿱樊虫$(GHJKT)	^⿱棥𧈹$(X)
 U+881D	蠝	^⿰虫畾$(GHKT)
 U+881E	蠞	^⿱節虫$(GT)	^⿱⿱𥫗卽虫$(J)
 U+881F	蠟	^⿰虫巤$(GHJKTV)
@@ -20816,7 +20816,7 @@ U+9E7D	鹽	^⿱⿰臣⿱𠂉鹵皿$(GHJKT)
 U+9E7E	鹾	^⿰卤差$(G)
 U+9E7F	鹿	^⿸{55}比$(GHJKTV)
 U+9E80	麀	^⿸鹿匕$(GHT[B])	^⿸鹿𠤎$(JK)
-U+9E81	麁	^⿱𠂊鹿$(GH)	^⿱⺈鹿$(JKT)
+U+9E81	麁	^⿱𠂊鹿$(GH)	^⿱⺈鹿$(JKT)	^⿱𠚤⿸{81}比$(X)
 U+9E82	麂	^⿸鹿几$(GKTV)	^⿱鹿几$(HJ)
 U+9E83	麃	^⿸鹿灬$(GHJKT)
 U+9E84	麄	^⿱分鹿$(GHJKT)
@@ -23450,7 +23450,7 @@ U+3CAD	㲭	^⿰焱毛$(GT)
 U+3CAE	㲮	^⿺毛答$(K)
 U+3CAF	㲯	^⿰監毛$(GKT)
 U+3CB0	㲰	^⿰寧毛$(GT)
-U+3CB1	㲱	^⿺毛巤$(GT)
+U+3CB1	㲱	^⿺毛巤$(G)	^⿺毛⿳巛龱{16}$(T)
 U+3CB2	㲲	^⿰疊毛$(GT)
 U+3CB3	㲳	^⿰氐失$(GKT)
 U+3CB4	㲴	^⿹气中$(GT)
@@ -25684,7 +25684,7 @@ U+4567	䕧	^⿱艹骹$(GT)
 U+4568	䕨	^⿱艹縢$(GKT)
 U+4569	䕩	^⿱艹橑$(GKT)
 U+456A	䕪	^⿱艹澤$(GHT)
-U+456B	䕫	^⿱艹⿱⿲止白㔾⿱八夊$(GJT)
+U+456B	䕫	^⿱艹⿱⿲止白巳⿱八夊$(GJT)	*U+456B(T) was ^⿱艹⿱⿲止白㔾⿱八夊$ in Unicode 5.2
 U+456C	䕬	^⿱艹彊$(GT)
 U+456D	䕭	^⿱艹燅$(GHKT)
 U+456E	䕮	^⿱艹𰏮$(GT)
@@ -25939,7 +25939,7 @@ U+4666	䙦	^⿰衤夢$(GT)
 U+4667	䙧	^⿰衤熏$(GKT)
 U+4668	䙨	^⿰衤𮖐$(GT)
 U+4669	䙩	^⿰衤蒙$(GT)
-U+466A	䙪	^⿱樊衣$(GKT)
+U+466A	䙪	^⿱樊衣$(GKT)	^⿱棥𡘚$(X)
 U+466B	䙫	^⿰衤冀$(G)
 U+466C	䙬	^⿰衤嬰$(GT)
 U+466D	䙭	^⿰衤蹇$(GKT)
@@ -28934,7 +28934,7 @@ U+20456	𠑖	^⿱位嵬$(V)
 U+20457	𠑗	^⿰亻⿱𦦉巳$(GT)	*U+20457=U+34A8(G)
 U+20458	𠑘	^⿰亻顛$(GT)
 U+20459	𠑙	^⿰亻寵$(GT)
-U+2045A	𠑚	^⿰亻⿱⿸⿹頁止㔾𧘇$(GT)
+U+2045A	𠑚	^⿰亻⿳⿸⿹𦣻止巳八𧘇$(GT)	*U+2045A(T) was ^⿰亻c⿸⿹𦣻止巳儿𧘇$ in Unicode 5.2
 U+2045B	𠑛	^⿰亻⿱茍⿱冖⿰止攵$(GT)
 U+2045C	𠑜	^⿰倉⿱米皿$(T)
 U+2045D	𠑝	^⿰余翟$(T)
@@ -30143,7 +30143,7 @@ U+2090F	𠤏	^⿱匕十$(GT)
 U+20910	𠤐	^⿱匕兀$(GT)
 U+20911	𠤑	^⿰匕矢$(GT)
 U+20912	𠤒	^⿱𠆢⿱上匕$(GT)
-U+20913	𠤓	^⿱⺈它$(GT)
+U+20913	𠤓	^⿱⺈它$(GT)	^⿳𠚤冖匕$(X)
 U+20914	𠤔	^⿱匕甘$(T)
 U+20915	𠤕	^⿱匕矢$(GTV)
 U+20916	𠤖	^⿱北𰀁$(HV)
@@ -30523,7 +30523,7 @@ U+20A8B	𠪋	^⿸厂𣆪$(GT)
 U+20A8C	𠪌	^⿸厂⿱𰁜火$(G)	^⿸厂⿱亦火$(T)
 U+20A8D	𠪍	^⿸厂⿰彼㔾$(GT)
 U+20A8E	𠪎	^⿸厂𡘤$(T)
-U+20A8F	𠪏	^⿸厂⿰丰艮$(GT)
+U+20A8F	𠪏	^⿸厂⿰丰艮$(G)	^⿸厂⿰丯艮$(T)
 U+20A90	𠪐	^⿸厂留$(G)
 U+20A91	𠪑	^⿸厂埶$(GT)
 U+20A92	𠪒	^⿸厂⿱口金$(GT)
@@ -30796,7 +30796,7 @@ U+20B9C	𠮜	^⿰口乚$(GT)
 U+20B9D	𠮝	^⿰口丨$(T)
 U+20B9E	𠮞	^⿺乙口$(GT)
 U+20B9F	𠮟	^⿰口七$(GJ)	^⿰口⿻乚一$(H)	*U+20B9F(GJ)=U+53F1(V)
-U+20BA0	𠮠	^⿱口勹$(GT)
+U+20BA0	𠮠	^⿱口⿰丿𠃌$(GT)	^⿱口勹$(X)
 U+20BA1	𠮡	^⿱口二$(GT)
 U+20BA2	𠮢	^⿱又口$(GT)
 U+20BA3	𠮣	^⿱乂口$(GT)
@@ -31229,7 +31229,7 @@ U+20D4D	𠵍	^⿱析口$(H)
 U+20D4E	𠵎	^⿰口姑$(HV)
 U+20D4F	𠵏	^⿰口匼$(V)
 U+20D50	𠵐	^⿰口怯$(V)
-U+20D51	𠵑	^⿰口⿸尸⿹𠃌𠮛$(T)	*U+20D51(T) was ^⿰口⿹⿺㇉{50}占$ for Unicode 5.2; and ^⿰口⿹⿻⿰丨⿱{50}一𠃌口$ = U+20D01(G) for Unicode 6.0
+U+20D51	𠵑	^⿰口⿸尸⿹𠃌𠮛$(T)	*U+20D51(T) was ^⿰口⿹⿺㇉{50}占$ in Unicode 5.2; and ^⿰口⿹⿻⿰丨⿱{50}一𠃌口$ = U+20D01(G) in Unicode 6.0
 U+20D52	𠵒	^⿰口䘚$(T)
 U+20D53	𠵓	^⿳⿳丨𠮚丨𠮚丨$(T)	^⿳⿳㇒𠮚丨𠮚丨$(UCS2003)
 U+20D54	𠵔	^⿰口並$(T)
@@ -31858,7 +31858,7 @@ U+20FC2	𠿂	^⿰口插$(V)
 U+20FC3	𠿃	^⿰口媒$(V)
 U+20FC4	𠿄	^⿰口寓$(V)
 U+20FC5	𠿅	^⿰口萑$(G)	^⿰口雈$(T)
-U+20FC6	𠿆	^⿰口⿳厶⿱大丰夊$(GT)
+U+20FC6	𠿆	^⿰口⿳厶⿱大丰夊$(G)	^⿰口⿳厶⿱大龶夊$(T)
 U+20FC7	𠿇	^⿰口解$(GT)
 U+20FC8	𠿈	^⿰口愁$(GTV)
 U+20FC9	𠿉	^⿱𣪠口$(GT)
@@ -33222,7 +33222,7 @@ U+21516	𡔖	^⿰土變$(V)
 U+21517	𡔗	^⿱𠑲土$(GT)
 U+21518	𡔘	^⿱⿲土⿱山⿻尸凵土⿰⿱山⿻尸凵⿱山⿻尸凵$(T)
 U+21519	𡔙	^⿱塶𱋁$(GT)
-U+2151A	𡔚	^⿱⿲土鹿土𱋁$(GT)
+U+2151A	𡔚	^⿱𡒲𱋁$(GT)
 U+2151B	𡔛	^⿱刀士$(GT)
 U+2151C	𡔜	^⿱士尸$(G)	^⊖声丨$(X)
 U+2151D	𡔝	^⿱士？$(GT)
@@ -33319,14 +33319,14 @@ U+21577	𡕷	^⿱⿱⺈四𡕥$(H)	^⿱{121}𡕥$(T)
 U+21578	𡕸	^⿳䒑⿴北白夊$(T)
 U+21579	𡕹	^⿳宀䀠夊$(GT)
 U+2157A	𡕺	^⿰⿱日𢁙⿱幺夊$(GT)
-U+2157B	𡕻	^⿱⿴𦥑𦣻夊$(GT)
+U+2157B	𡕻	^⿳一⿴𦥑自夊$(G)	^⿱⿴𦥑𦣻夊$(T)
 U+2157C	𡕼	^⿳⿱爫土⿲止几巳夊$(GT)
 U+2157D	𡕽	^⿳⿱爫{50}⿲止⿰丿丨巳夊$(GT)
 U+2157E	𡕾	^⿳𦣻昍夊$(GT)
 U+2157F	𡕿	^⿳𦣻⿲山几己夊$(GT)
 U+21580	𡖀	^⿱爫⿸尸⿱⿲止⿰丨丨巳夊$(T)	^⿱爫⿸尸⿱⿲止几巳夊$(UCS2003)	*U+21580(T)=U+2453F
 U+21581	𡖁	^⿱鞠夊$(T)
-U+21582	𡖂	^⿱卝夒$(GH)	*U+21582=U+8641(J)
+U+21582	𡖂	^⿱卝⿱⿸⿹頁止巳夊$(GH)	^⿱卝夒$(Z)	*U+21582=U+8641(J);U+21582(G) was ^⿱卝⿳⿸⿹頁止巳八夊$ in Unicode 6.0
 U+21583	𡖃	^⿱夏⿰夏夏$(G)
 U+21584	𡖄	^⿰夕𠁡$(GT)
 U+21585	𡖅	^⿰夕匕$(G)
@@ -35974,7 +35974,7 @@ U+21FD6	𡿖	^⿰山齧$(GT)
 U+21FD7	𡿗	^⿰山蘖$(G)
 U+21FD8	𡿘	^⿱屾繒$(GT)
 U+21FD9	𡿙	^⿱山鷄$(G)
-U+21FDA	𡿚	^⿰山⿳艹⿲止自巳殳$(G)
+U+21FDA	𡿚	^⿰山⿳艹⿲止自巳殳$(G)	^⿰山𧃰$(Z)
 U+21FDB	𡿛	^⿸屵𰘾$(GT)	^⿸𡾷木$(X)
 U+21FDC	𡿜	^⿱山纍$(GT)
 U+21FDD	𡿝	^⿰山囊$(GT)
@@ -36402,7 +36402,7 @@ U+22182	𢆂	^⿲巾𦚏㓱$(G)
 U+22183	𢆃	^⿰巾夔$(GT)
 U+22184	𢆄	^⿰巾蘭$(GT)
 U+22185	𢆅	^⿰書幕$(GT)
-U+22186	𢆆	^⿰巾⿳艹⿲止目巳⿱八夊$(G)
+U+22186	𢆆	^⿰巾⿳艹⿲止目巳⿱𠘧夊$(G)
 U+22187	𢆇	^⿰⿳白癶巾槖$(GT)
 U+22188	𢆈	^〾⿱衛𢄉$(T)
 U+22189	𢆉	^⿱丷干$(GTV)
@@ -36789,7 +36789,7 @@ U+22305	𢌅	^⿸广⿰墨阝$(G)
 U+22306	𢌆	^⿸广⿱⿻甲一䖵$(T)
 U+22307	𢌇	^⿸廌法$(G)	^⿱廌法$(T)
 U+22308	𢌈	^⿸广離$(GT)
-U+22309	𢌉	^⿸广⿳⿴𦥑𦣻八夊$(GT)
+U+22309	𢌉	^⿸广⿳⿱一⿴𦥑自八夊$(G)	^⿸广⿳⿴𦥑𦣻八夊$(T)	^⿸广夓$(Z)	*U+22309(T) was ^⿸广⿳⿱一⿴𦥑自八夊$ in Unicode 5.2
 U+2230A	𢌊	^⿰廣弄$(V)
 U+2230B	𢌋	^⿸广⿱大𣚨$(GT)
 U+2230C	𢌌	^⿰弄廣$(V)
@@ -37728,7 +37728,7 @@ U+226B0	𢚰	^⿰忄𭗾$(GT)
 U+226B1	𢚱	^⿳䒑公心$(G)	^⿱䒑忩$(X)
 U+226B2	𢚲	^⿰忄改$(V)
 U+226B3	𢚳	^⿱村心$(V)
-U+226B4	𢚴	^⿰忄忍$(V)	*U+226B4(V) was ^⿰忄𢖫$ for Unicode 14.0 only
+U+226B4	𢚴	^⿰忄忍$(V)	*U+226B4(V) was ^⿰忄𢖫$ in Unicode 14.0 only
 U+226B5	𢚵	^⿰忄豸$(V)
 U+226B6	𢚶	^⿰忄妥$(V)
 U+226B7	𢚷	^⿰忄車$(V)
@@ -38769,7 +38769,7 @@ U+22AC1	𢫁	^⿰扌氹$(G)
 U+22AC2	𢫂	^⿰扌⿸⿹屮㇇㇏$(T)
 U+22AC3	𢫃	^⿰扌叫$(V)
 U+22AC4	𢫄	^⿰扌札$(V)
-U+22AC5	𢫅	^⿰扌⿺乇七$(V)	*U+22AC5(V) was ^⿰扌⿺乇匕$ for Unicode 14.0 only
+U+22AC5	𢫅	^⿰扌⿺乇七$(V)	*U+22AC5(V) was ^⿰扌⿺乇匕$ in Unicode 14.0 only
 U+22AC6	𢫆	^⿰扌本$(TV)
 U+22AC7	𢫇	^⿰扌⿱才又$(T)
 U+22AC8	𢫈	^⿰扌古$(TV)
@@ -39745,7 +39745,7 @@ U+22E91	𢺑	^⿰扌羸$(GT)
 U+22E92	𢺒	^⿰扌𩸮$(V)
 U+22E93	𢺓	^⿰扌霪$(V)
 U+22E94	𢺔	^⿰扌寳$(V)
-U+22E95	𢺕	^⿰扌夒$(GT)
+U+22E95	𢺕	^⿰扌夒$(G)	^⿰扌⿳⿸⿹𦣻止巳儿夊$(T)	*U+22E95(T) was ^⿰扌⿳𦣻⿲止⿰丨丨巳夊$ in Unicode 6.0
 U+22E96	𢺖	^⿰扌⿱旦𱔞$(GT)	^⿰扌曩$(V)
 U+22E97	𢺗	^⿰扌㒹$(G)
 U+22E98	𢺘	^⿰扌嚴$(T)
@@ -40369,7 +40369,7 @@ U+23101	𣄁	^⿰方受$(GT)
 U+23102	𣄂	^⿰方疌$(T)
 U+23103	𣄃	^⿰方其$(H)
 U+23104	𣄄	^⿰方芹$(T)
-U+23105	𣄅	^⿰方⿱{88}⿱丅口$(G)
+U+23105	𣄅	^⿰方⿳𠆢𬼽口$(G)	^⿰方⿱{88}⿱丅口$(X)
 U+23106	𣄆	^⿰方𮕦$(G)	^⿸𭤨衣$(X)
 U+23107	𣄇	^⿰方侖$(V)
 U+23108	𣄈	^⿰方軍$(GT)
@@ -42224,7 +42224,7 @@ U+23840	𣡀	^⿰木⿱雚又$(GT)
 U+23841	𣡁	^⿲木齒攵$(G)
 U+23842	𣡂	^⿰木靡$(G)
 U+23843	𣡃	^⿰木㞡$(T)
-U+23844	𣡄	^⿰木⿱棥⿱大手$(T)
+U+23844	𣡄	^⿰木攀$(T)
 U+23845	𣡅	^⿰木⿳𠂉⿻卄丨⿲⺼羊{10}$(T)	^⿰木⿳𠂉卅⿲⺼羊{10}$(Z)
 U+23846	𣡆	^⿰壼桑$(GT)
 U+23847	𣡇	^⿱棥尉$(G)
@@ -45273,7 +45273,7 @@ U+24429	𤐩	^⿰火蓋$(GT)
 U+2442A	𤐪	^⿰火㷠$(GT)
 U+2442B	𤐫	^⿱⿴𦥑囟灭$(GT)
 U+2442C	𤐬	^⿰炙⿻木吕$(GT)
-U+2442D	𤐭	^⿰火夀$(GT)
+U+2442D	𤐭	^⿰火夀$(G)	^⿰火⿳⿱⿻𠄟丨乛𠀐吋$(T)	^⿰火𡔽$(Z)
 U+2442E	𤐮	^⿱辝𤆅$(G)
 U+2442F	𤐯	^⿰火𠎤$(GT)
 U+24430	𤐰	^⿰火蒦$(G)	^⿰火⿱卝隻$(T)
@@ -54770,7 +54770,7 @@ U+26942	𦥂	^⿳圭冖至$(GT)
 U+26943	𦥃	^⿰至典$(V)
 U+26944	𦥄	^⿱其至$(T)
 U+26945	𦥅	^⿰至枲$(GT)
-U+26946	𦥆	^⿳丰癶至$(GT)
+U+26946	𦥆	^⿳丰癶至$(G)	^⿳龶癶至$(T)
 U+26947	𦥇	^⿰至奏$(T)
 U+26948	𦥈	^⿳𦍌冖至$(GT)
 U+26949	𦥉	^⿰室吾$(GT)
@@ -61109,7 +61109,7 @@ U+28205	𨈅	^⿰𧾷蘥$(GT)
 U+28206	𨈆	^⿰𧾷蘭$(GV)
 U+28207	𨈇	^⿰𧾷覽$(H)
 U+28208	𨈈	^⿰𧾷疊$(GT)
-U+28209	𨈉	^⿰𧾷𡖂$(G)
+U+28209	𨈉	^⿰𧾷⿱卝⿳⿸⿹𦣻止巳八夊$(G)	^⿰𧾷𡖂$(Z)
 U+2820A	𨈊	^⿰𧾷彎$(GTV)
 U+2820B	𨈋	^⿰𧾷籥$(GT)
 U+2820C	𨈌	^⿰𧾷戀$(G)
@@ -65559,7 +65559,7 @@ U+29367	𩍧	^⿰革聚$(GT)
 U+29368	𩍨	^⿰革匱$(GT)
 U+29369	𩍩	^⿰革僕$(GT)
 U+2936A	𩍪	^⿰革翟$(GT)
-U+2936B	𩍫	^⿰革⿳爫⿲{45}几㔾夊$(G)	^⿰革⿳爫⿲{45}几㔾又$(T)
+U+2936B	𩍫	^⿰革⿳爫⿲{45}几㔾夊$(G)	^⿰革⿳爫⿲{45}几巳又$(T)	*U+2936B(T) was ^⿰革⿳爫⿲土几巳又$ in Unicode 5.2
 U+2936C	𩍬	^⿰革蒙$(G)
 U+2936D	𩍭	^⿰革𥈜$(G)
 U+2936E	𩍮	^⿰革箕$(GT)
@@ -65783,7 +65783,7 @@ U+29447	𩑇	^⿰音⿱吅叕$(GT)
 U+29448	𩑈	^⿰音廣$(GHT)
 U+29449	𩑉	^⿰音騐$(GT)
 U+2944A	𩑊	^⿰音靈$(GT)
-U+2944B	𩑋	^⿱𦣻儿$(GT)
+U+2944B	𩑋	^⿱丆見$(GT)	^⿱𦣻儿$(X)
 U+2944C	𩑌	^⿰又頁$(GT)
 U+2944D	𩑍	^⿰頁𠃏$(GT)
 U+2944E	𩑎	^⿲丿丨頁$(G)	^⿰⊖川丨頁$(X)
@@ -67370,7 +67370,7 @@ U+29A7A	𩩺	^⿰骨泉$(G)
 U+29A7B	𩩻	^⿰骨盾$(G)
 U+29A7C	𩩼	^⿰骨⿱彡䏍$(G)
 U+29A7D	𩩽	^⿰骨矦$(GT)
-U+29A7E	𩩾	^⿰骨⿸户⿱二巳$(G)	^⿰骨⿸戶⿱二巳$(T)
+U+29A7E	𩩾	^⿰骨⿸户⿱二巳$(G)	^⿰骨⿸戶⿱二巳$(T)	^⿰骨⿸戶⿱二已$(UCS2003)	*U+29A7E(GT) was ^⿰骨⿸戶⿱二已$ in Unicode 5.2
 U+29A7F	𩩿	^⿰骨音$(V)
 U+29A80	𩪀	^⿰骨追$(GT)
 U+29A81	𩪁	^⿰骨鬼$(GT)
@@ -68086,7 +68086,7 @@ U+29D46	𩵆	^⿺鬼贊$(G)
 U+29D47	𩵇	^⿱鬼羅$(GT)
 U+29D48	𩵈	^⿺鬼矍$(GT)
 U+29D49	𩵉	^⿺鬼⿳艹⿲止自巳⿱八夊$(G)	^⿺鬼𧃰$(Z)
-U+29D4A	𩵊	^⿺鬼𡖂$(T)
+U+29D4A	𩵊	^⿺鬼⿱卝⿳⿸⿹𦣻止巳八夊$(T)	^⿺鬼𡖂$(Z)
 U+29D4B	𩵋	^⿳⺈田大$(GTV)
 U+29D4C	𩵌	^⿰魚了$(GT)
 U+29D4D	𩵍	^⿰魚九$(GT)
@@ -69762,7 +69762,7 @@ U+2A3D2	𪏒	^⿰卑黄$(G)	^⿰卑黃$(Z)
 U+2A3D3	𪏓	^⿰皇黄$(G)	^⿰皇黃$(T)
 U+2A3D4	𪏔	^⿰黄頁$(G)	^⿰黃頁$(T)
 U+2A3D5	𪏕	^⿰黄軍$(G)	^⿰黃軍$(T)
-U+2A3D6	𪏖	^⿰黄⿱巳而$(G)	^⿰黃⿱巳而$(T)
+U+2A3D6	𪏖	^⿰黄⿱巳而$(G)	^⿰⿱廿⿳一由八⿱巳而$(T)	^⿰黃⿱已而$(UCS2003)	^⿰黃⿱巳而$(Z)	*U+2A3D6(GT) was ^⿰黃⿱已而$ in Unicode 5.2
 U+2A3D7	𪏗	^⿰黄扁$(G)	^⿰黃扁$(Z)
 U+2A3D8	𪏘	^⿰黄重$(G)	^⿰黃重$(T)
 U+2A3D9	𪏙	^⿰⿱⿳士冖一黄殳$(G)	^⿰⿱⿳士冖一黃殳$(T)
@@ -71638,7 +71638,7 @@ U+2AB42	𪭂	^⿱⿰章有心$(T)
 U+2AB43	𪭃	^⿰忄⿸⿻丅⿸{84}⿰二二𰤷$(V)	^⿰忄⿸雨𰤷$(X)
 U+2AB44	𪭄	^⿰忄額$(V)
 U+2AB45	𪭅	^⿱𩌌心$(T)
-U+2AB46	𪭆	^⿰忄夔$(K)
+U+2AB46	𪭆	^⿰忄⿱丷夒$(K)	^⿰忄夔$(Z)
 U+2AB47	𪭇	^⿰忄⿱𦍌誩$(V)
 U+2AB48	𪭈	^⿰忄𬯵$(T)
 U+2AB49	𪭉	^⿱戈一$(J)
@@ -82064,7 +82064,7 @@ U+2D40A	𭐊	^⿰度基$(J)
 U+2D40B	𭐋	^⿱豁土$(S)
 U+2D40C	𭐌	^⿰土藍$(S)
 U+2D40D	𭐍	^⿳畾冖圡$(K)
-U+2D40E	𭐎	^⿰土⿳艹⿲止自㔾夊$(K)
+U+2D40E	𭐎	^⿰土⿳䒑⿲止自匕夊$(K)
 U+2D40F	𭐏	^⿰土覇$(K)
 U+2D410	𭐐	^⿰土顥$(K)
 U+2D411	𭐑	^⿰墨敢$(G)
@@ -84303,7 +84303,7 @@ U+2DCC9	𭳉	^⿰氵寞$(S)
 U+2DCCA	𭳊	^⿲氵关隹$(J)
 U+2DCCB	𭳋	^⿰氵際$(K)
 U+2DCCC	𭳌	^⿰氵緒$(K)
-U+2DCCD	𭳍	^⿰氵⿰夀丶$(J)
+U+2DCCD	𭳍	^⿰氵⿱⿷⿻𠄟𠀐丶吋$(J)
 U+2DCCE	𭳎	^⿰氵⿱艹⿵戊占$(K)
 U+2DCCF	𭳏	^⿰氵愬$(J)
 U+2DCD0	𭳐	^⿰氵播$(J)
@@ -84760,7 +84760,7 @@ U+2DE92	𭺒	^⿳玨冖⿻𢆶木$(S)
 U+2DE93	𭺓	^⿰𤣩應$(K)
 U+2DE94	𭺔	^⿰⿱王王⿰旵旵$(S)	^⿱⿰𤣩昍⿰𤣩屾$(X)
 U+2DE95	𭺕	^⿱玨覞$(S)
-U+2DE96	𭺖	^⿰𤣩⿳艹⿲止白匕夊$(K)
+U+2DE96	𭺖	^⿰𤣩⿳卝⿲止白匕夊$(K)
 U+2DE97	𭺗	^⿺瓜巴$(K)
 U+2DE98	𭺘	^⿺瓜犮$(S)
 U+2DE99	𭺙	^⿰國瓜$(S)
@@ -85711,7 +85711,7 @@ U+2E249	𮉉	^⿰糸逮$(S)	^⿰糹逮$(Z)
 U+2E24A	𮉊	^⿰糸⿳艹叵日$(S)	^⿰糹⿳艹叵日$(Z)
 U+2E24B	𮉋	^⿰糸戢$(K)	^⿰糹戢$(Z)
 U+2E24C	𮉌	^⿰糸筵$(S)	^⿰糹筵$(Z)
-U+2E24D	𮉍	^⿰糸⿱⺈寅$(K)	^⿰糹⿱⺈寅$(Z)
+U+2E24D	𮉍	^⿰糸⿱⺈寅$(K)	^⿰糸⿱⿱𠚤冖⿳一由八$(X)	^⿰糹⿱⺈寅$(Z)
 U+2E24E	𮉎	^⿰糸絛$(K)	^⿰糹絛$(Z)
 U+2E24F	𮉏	^⿰糸違$(K)	^⿰糹違$(Z)
 U+2E250	𮉐	^⿰糸⿸厂黑$(S)	^⿰糹⿸厂黒$(Z)
@@ -85954,7 +85954,7 @@ U+2E33C	𮌼	^⿰月㪚$(S)
 U+2E33D	𮌽	^⿰背告$(G)
 U+2E33E	𮌾	^⿰腐丑$(G)
 U+2E33F	𮌿	^⿱粥肉$(K)
-U+2E340	𮍀	^⿰月⿱⺈寅$(K)
+U+2E340	𮍀	^⿰月⿱⺈寅$(K)	^⿰月⿱⿱𠚤冖⿳一由八$(X)
 U+2E341	𮍁	^⿰月⿱亠𭾱$(K)
 U+2E342	𮍂	^⿰胡是$(S)
 U+2E343	𮍃	^⿰月甄$(S)
