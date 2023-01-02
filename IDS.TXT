@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2022-12-31
+# File Date: 2023-01-01
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -14608,7 +14608,7 @@ U+863D	蘽	^⿱艹櫐$(GJKT)
 U+863E	蘾	^⿱艹壞$(GHKT)
 U+863F	蘿	^⿱艹羅$(GHJKTV)
 U+8640	虀	^⿱艹韲$(GHJKT)
-U+8641	虁	^⿱艹夒$(G)	^⿱艹⿳⿸⿹𦣻止㔾八夊$(T)	^⿱卝夒$(J)	^⿱艹⿱丷夒$(K)	*U+8641(J)=U+21582;U+8641(K)=U+27144;U+8641(K) was ^⿱艹⿳⿸⿹𦣻止匕儿夊$ in Unicode 5.2
+U+8641	虁	^⿱艹夒$(G)	^⿱卝夒$(J)	^⿱艹⿱丷夒$(K)	^⿱艹⿳⿸⿹𦣻止㔾八夊$(T)	*U+8641(J)=U+21582;U+8641(K)=U+27144;U+8641(K) was ^⿱艹⿳⿸⿹𦣻止匕儿夊$ in Unicode 5.2
 U+8642	虂	^⿱艹露$(GHJT)
 U+8643	虃	^⿱艹瀸$(GHKT)
 U+8644	虄	^⿱艹⿰虫⿱夂産$(G)	^⿱艹⿰虫⿱夂產$(K)
@@ -28934,7 +28934,7 @@ U+20456	𠑖	^⿱位嵬$(V)
 U+20457	𠑗	^⿰亻⿱𦦉巳$(GT)	*U+20457=U+34A8(G)
 U+20458	𠑘	^⿰亻顛$(GT)
 U+20459	𠑙	^⿰亻寵$(GT)
-U+2045A	𠑚	^⿰亻⿳⿸⿹𦣻止巳八𧘇$(GT)	*U+2045A(T) was ^⿰亻c⿸⿹𦣻止巳儿𧘇$ in Unicode 5.2
+U+2045A	𠑚	^⿰亻⿳⿸⿹𦣻止巳八𧘇$(GT)	*U+2045A(T) was ^⿰亻⿳⿸⿹𦣻止巳儿𧘇$ in Unicode 5.2
 U+2045B	𠑛	^⿰亻⿱茍⿱冖⿰止攵$(GT)
 U+2045C	𠑜	^⿰倉⿱米皿$(T)
 U+2045D	𠑝	^⿰余翟$(T)
@@ -39361,7 +39361,7 @@ U+22D11	𢴑	^⿰扌悉$(V)
 U+22D12	𢴒	^⿰扌烹$(HV)
 U+22D13	𢴓	^⿰扌覔$(V)
 U+22D14	𢴔	^⿰扌販$(V)
-U+22D15	𢴕	^⿰扌寕$(V)	^⿰扌⿳宀一𰤲$(Z)
+U+22D15	𢴕	^⿰扌寕$(V)	^⿰扌⿳宀一𰤲$(UCS2003)
 U+22D16	𢴖	^⿰扌啓$(V)
 U+22D17	𢴗	^⿰扌淡$(V)
 U+22D18	𢴘	^⿰扌猜$(V)
@@ -56380,7 +56380,7 @@ U+26F8C	𦾌	^⿱艹蜂$(T)
 U+26F8D	𦾍	^⿳艹{21}⿱日小$(T)
 U+26F8E	𦾎	^⿱艹䅗$(T)
 U+26F8F	𦾏	^⿰華甲$(GT)
-U+26F90	𦾐	^⿳艹臥皿$(GT)
+U+26F90	𦾐	^⿱𦱽皿$(GT)	^⿳艹臥皿$(X)
 U+26F91	𦾑	^⿱艹剽$(G)
 U+26F92	𦾒	^⿳⿱艹罒一我$(G)	^⿳⿱卝罒一我$(T)	^⿳𦭝一我$(X)
 U+26F93	𦾓	^⿱艹𠌶$(G)
@@ -71638,7 +71638,7 @@ U+2AB42	𪭂	^⿱⿰章有心$(T)
 U+2AB43	𪭃	^⿰忄⿸⿻丅⿸{84}⿰二二𰤷$(V)	^⿰忄⿸雨𰤷$(X)
 U+2AB44	𪭄	^⿰忄額$(V)
 U+2AB45	𪭅	^⿱𩌌心$(T)
-U+2AB46	𪭆	^⿰忄⿱丷夒$(K)	^⿰忄夔$(Z)
+U+2AB46	𪭆	^⿰忄⿱丷⿱⿸⿹⿱百八止㔾夊$(K)	^⿰忄⿳䒑⿲止㒵㔾夊$(X)	^⿰忄夔$(Z)
 U+2AB47	𪭇	^⿰忄⿱𦍌誩$(V)
 U+2AB48	𪭈	^⿰忄𬯵$(T)
 U+2AB49	𪭉	^⿱戈一$(J)
@@ -74699,7 +74699,7 @@ U+2B736	𫜶	^⿰⺼敦$(UV)	^⿰月敦$(Z)	*U+2B736≠U+3B3F
 U+2B737	𫜷	^⿰寿阝$(G)
 U+2B738	𫜸	^⿰口匕$(GT)
 # Unicode version 15.0 [September 2022] additions (1 character)
-U+2B739	𫜹	^⿻{50}一$(MUV)	*Disunified from U+5F50 in Unicode 15.0
+U+2B739	𫜹	^⿻{50}一$(MUV)	*U+2B739=U+5F50(G);disunified from U+5F50 in Unicode 15.0
 # CJK Unified Ideographs Extension D (222 characters)
 # Unicode version 6.0 [October 2010] additions (222 characters)
 U+2B740	𫝀	^⊖五一$(J)
