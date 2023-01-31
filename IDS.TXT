@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2023-01-29
+# File Date: 2023-01-30
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -382,7 +382,7 @@ U+4EAB	享	^⿳亠口子$(GHJKTV)	^⿱亠𠯂$(X)
 U+4EAC	京	^⿱亠𱒃$(GHJKTV)
 U+4EAD	亭	^⿱{87}丁$(GHJKTV)
 U+4EAE	亮	^⿱{87}几$(G)	^⿱{87}儿$(HJKT)
-U+4EAF	亯	^⿳亠口日$(GJT)
+U+4EAF	亯	^⿱亠𠯭$(GJT)
 U+4EB0	亰	^⿱𣅀小$(GJKT)	^⿱亠𣌢$(X)
 U+4EB1	亱	^⿱亠但$(GT)
 U+4EB2	亲	^⿱立木$(GT)
@@ -29089,7 +29089,7 @@ U+204F1	𠓱	^⿳入𢆶大$(GT)
 U+204F2	𠓲	^⿱入桀$(G)	*U+204F2=U+23515
 U+204F3	𠓳	^⿱全⿰⿰匚丿⿰丨{50}$(T)	*U+204F3=U+20306
 U+204F4	𠓴	^⿱全丣$(GT)
-U+204F5	𠓵	^⿱入⿻大𠈌$(G)
+U+204F5	𠓵	^⿱入𡙁$(G)
 U+204F6	𠓶	^⿱帶入$(GT)
 U+204F7	𠓷	^⿱入爽$(GT)
 U+204F8	𠓸	^⿳入兓木$(G)	^⿳入⿰旡旡木$(T)
@@ -29363,7 +29363,7 @@ U+20603	𠘃	^⿰冫動$(V)
 U+20604	𠘄	^⿰冫⿱𠆢⿰{17}攵$(GT)
 U+20605	𠘅	^⿰冫禽$(GT)
 U+20606	𠘆	^⿰冫森$(GT)
-U+20607	𠘇	^⿲冫身舟$(GT)
+U+20607	𠘇	^⿰𠗏舟$(GT)
 U+20608	𠘈	^⿰冫孱$(T)
 U+20609	𠘉	^⿰冫景$(T)
 U+2060A	𠘊	^⿰冫農$(GT)
@@ -71733,7 +71733,7 @@ U+2ABA1	𪮡	^⿰扌朗$(GU)
 U+2ABA2	𪮢	^⿰扌原$(K)
 U+2ABA3	𪮣	^⿱技折$(V)
 U+2ABA4	𪮤	^⿰扌崩$(GT)
-U+2ABA5	𪮥	^⿲扌舟⿱儿口$(T)
+U+2ABA5	𪮥	^⿲扌舟⿱儿口$(T)	^⿰𰓞⿱儿口$(X)
 U+2ABA6	𪮦	^⿰扌得$(V)
 U+2ABA7	𪮧	^⿰扌庸$(T)
 U+2ABA8	𪮨	^⿰扌深$(V)
