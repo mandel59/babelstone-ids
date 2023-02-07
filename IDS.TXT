@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2023-02-02
+# File Date: 2023-02-06
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -45153,7 +45153,7 @@ U+243B1	𤎱	^⿰火雋$(GT)
 U+243B2	𤎲	^⿰火量$(GT)
 U+243B3	𤎳	^⿰火㫺$(GT)
 U+243B4	𤎴	^⿱𣦃灬$(GT)
-U+243B5	𤎵	^⿱𣦃火$(GT)
+U+243B5	𤎵	^⿱⿱止𦨉火$(GT)
 U+243B6	𤎶	^⿰火爲$(GV)	^⿰火為$(Z)
 U+243B7	𤎷	^⿹{69}炅$(GT)
 U+243B8	𤎸	^⿰⿱⿶凵⿰丨丨火⿱⿶凵⿰丨丨火$(GT)
@@ -52312,7 +52312,7 @@ U+25FA8	𥾨	^⿰糹气$(GT)
 U+25FA9	𥾩	^⿱反糸$(GT)
 U+25FAA	𥾪	^⿰糹仒$(GT)
 U+25FAB	𥾫	^⿰糹丰$(GT)
-U+25FAC	𥾬	^⿰糹𢆰$(GT)
+U+25FAC	𥾬	^⿰糹⿱一{27}$(G)	^⿰糹𢆰$(T)	*GHZR p. 3594 shows ^⿰糹𢆰$
 U+25FAD	𥾭	^⿰糹𤓰$(G)	^⿰糹爪$(T)
 U+25FAE	𥾮	^⿰糹戈$(GT)
 U+25FAF	𥾯	^⿰糹弔$(GTU)
@@ -53569,7 +53569,7 @@ U+26491	𦒑	^⿰矞羽$(GT)
 U+26492	𦒒	^⿰羽堯$(GT)
 U+26493	𦒓	^⿰羽喬$(GT)
 U+26494	𦒔	^⿰羽矞$(GT)
-U+26495	𦒕	^⿳止𦨉羽$(GT)
+U+26495	𦒕	^⿱⿱止𦨉羽$(GT)
 U+26496	𦒖	^⿰羽異$(GT)
 U+26497	𦒗	^⿰羽曾$(G)
 U+26498	𦒘	^⿰⿱䙲巳羽$(H)	^⿰䙴羽$(Z)
