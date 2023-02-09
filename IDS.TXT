@@ -3,7 +3,7 @@
 # File Encoding: UTF-8 with BOM and CR/LF
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.0 [September 2022] (97,058 entries)
-# File Date: 2023-02-07
+# File Date: 2023-02-08
 #
 # Notes
 # 1. This file is compiled from IDS data provided by Kawabata Taichi <https://github.com/kawabata/ids>, John Knightley, and Andrew West, and from data provided in encoding submissions by IRG member bodies. However, the format of this file was designed by myself, and the file does not reproduce the format or presentation form of any pre-existing IDS data sources. I (Andrew West) have edited the original raw IDS data to conform to the format used in this file, and have made a very large number of changes and corrections to the original data. My thanks to Eiso Chan (陈永聪), James Kass, Huáng Jùnliàng (黄俊亮), Jaemin Chung, and Jerry You (游程宇) for providing numerous corrections and improvements to the data; and my especial thanks to Michel Mariani who has provided thousands of corrections and improvements which have immeasurably improved the quality of the IDS data.
@@ -25,7 +25,7 @@
 #	↷ = Rotation operator (unary): the operand is rotated 180° (e.g. ↷了 = 𠄏).
 #	⊖ = Subtraction operator (binary): indicates that the stroke or component represented by the second operand is removed from the character represented by the first operand, for example ⊖東㇒ = 𬻌. This is effectively the opposite of the overlay operator (⿻), and like the overlay operator it may be ambiguous (e.g. ⊖心丶 for 𢖩 does not specify which of the two dots is removed from 心).
 #	0..9 in curly brackets {} representing unencoded components (see below).
-# NB The mirror operator, rotation operator, and subtraction operator are unofficial extensions, but these three operators have been proposed for encoding as IDC characters (see <https://www.unicode.org/L2/L2022/22191-five-new-idc-chars.pdf>), and it is hoped that they will be available in Unicode version 16.0.
+# NB The mirror operator, rotation operator, and subtraction operator are unofficial extensions, but these three operators have been proposed for encoding as IDC characters (see <https://www.unicode.org/L2/L2022/22191-five-new-idc-chars.pdf>), and it is hoped that they will be available in Unicode version 15.1.
 #
 # 6. Unencoded Components are represented as a two-digit number between curly brackets (the corresponding PUA character in the "BabelStone Han PUA" font is given in parentheses).
 # To create an IDS set with no numbered components, globally replace all numbered components with the IDS fragments given in the final column below (some components are replaced with approximate equivalents).
@@ -21131,7 +21131,7 @@ U+9FB7	龷	^⿱卄一$(GU)
 U+9FB8	龸	^⿱⺌冖$(GU)
 U+9FB9	龹	^⿻丷夫$(G)
 U+9FBA	龺	^⿱十早$(G)	*lateral form of U+2099D
-U+9FBB	龻	^⿲糸言糸$(GU)	*top form of U+470C
+U+9FBB	龻	^⿲糹言糹$(GU)	*top form of U+470C
 # Unicode version 5.1 [April 2008] additions (8 characters)
 U+9FBC	龼	^⿰土睿$(U)
 U+9FBD	龽	^⿰火魚$(U)
@@ -30787,7 +30787,7 @@ U+20B93	𠮓	^⿱䜌又$(T)
 U+20B94	𠮔	^⿰又麗$(T)
 U+20B95	𠮕	^⿳{36}䖵又$(GT)
 U+20B96	𠮖	^⿱䜌𠬜$(GT)
-U+20B97	𠮗	^⿳爫⿲糸糸糸又$(GT)
+U+20B97	𠮗	^⿳爫⿲糹糹糹又$(G)	^⿳爫⿲糸糸糸又$(T)
 U+20B98	𠮘	^⿰⿳厶山⿵冂不⿳𠮳旧又$(GT)
 U+20B99	𠮙	^⿰口乙$(GTV)
 U+20B9A	𠮚	^⿴囗丶$(GT)
@@ -32236,7 +32236,7 @@ U+2113C	𡄼	^⿰口⿰𡭴虎$(G)	^⿰口虩$(Z)
 U+2113D	𡄽	^⿰口瀉$(H)
 U+2113E	𡄾	^⿰口謹$(V)
 U+2113F	𡄿	^⿳吅⿱一由⿱𠀎𧘇$(T)
-U+21140	𡅀	^⿱⿲糸虫糸口$(T)
+U+21140	𡅀	^⿱⿲糹虫糹口$(T)
 U+21141	𡅁	^⿰口⿱{26}果$(T)
 U+21142	𡅂	^⿰口鵓$(G)
 U+21143	𡅃	^⿰口龎$(G)
@@ -33173,7 +33173,7 @@ U+214E5	𡓥	^⿰土戰$(V)
 U+214E6	𡓦	^⿰土毚$(GT)
 U+214E7	𡓧	^⿱燤土$(T)
 U+214E8	𡓨	^⿰⿱土坐⿱土坐$(H)
-U+214E9	𡓩	^⿳亠⿲糸幺糸土$(T)
+U+214E9	𡓩	^⿳亠⿲糹幺糹土$(T)
 U+214EA	𡓪	^⿱龸墨$(T)
 U+214EB	𡓫	^⿰土嬰$(T)
 U+214EC	𡓬	^⿱⿰𨸏彖土$(GT)
@@ -42167,7 +42167,7 @@ U+23807	𣠇	^⿰木薟$(T)
 U+23808	𣠈	^⿳棥冖时$(T)
 U+23809	𣠉	^⿰木⿳𥫗罒戌$(T)	^⿰木篾$(Z)
 U+2380A	𣠊	^⿰木⿳𥫗罒年$(T)
-U+2380B	𣠋	^⿱⿲糸白糸木$(T)
+U+2380B	𣠋	^⿱⿲糹白糹木$(T)
 U+2380C	𣠌	^⿰木⿳雨口⿵冂⿱丷丅$(GT)	^⿰木⿳雨口⿵𦉪丅$(Z)
 U+2380D	𣠍	^⿰木⿱山熏$(G)
 U+2380E	𣠎	^⿰枲堯$(GT)
@@ -45561,7 +45561,7 @@ U+24549	𤕉	^⿺爪爂$(GT)
 U+2454A	𤕊	^⿺爪舋$(G)
 U+2454B	𤕋	^⿱⿺𠃊⿰⺌㇒⿹⺄⿳爫{119}白$(G)	^⿳⿺𠃊⿰⺌㇒⿹⺄⿱爫{119}白$(T)
 U+2454C	𤕌	^⿰𤔔⿱東田$(G)
-U+2454D	𤕍	^⿳爫⿲糸吕糸十$(G)	^⿳爫⿲糸呂糸十$(T)
+U+2454D	𤕍	^⿳爫⿲糹吕糹十$(G)	^⿳爫⿲糹呂糹十$(T)
 U+2454E	𤕎	^⿱父于$(T)
 U+2454F	𤕏	^⿱父山$(T)
 U+24550	𤕐	^⿱{44}父$(GT)
@@ -52897,7 +52897,7 @@ U+261F1	𦇱	^⿰糹叢$(GT)
 U+261F2	𦇲	^⿰糹⿱𤕨土$(GT)
 U+261F3	𦇳	^⿰糹𤐫$(T)
 U+261F4	𦇴	^⿰糹藏$(T)
-U+261F5	𦇵	^⿱幽⿵冂⿲糸丨糸$(G)
+U+261F5	𦇵	^⿱幽⿵冂⿲糹丨糸$(G)
 U+261F6	𦇶	^⿰糹⿺辶𦥳$(GT)
 U+261F7	𦇷	^⿱䜌电$(GT)
 U+261F8	𦇸	^⿰糹覈$(GT)
@@ -52915,7 +52915,7 @@ U+26203	𦈃	^⿰糹囊$(GT)
 U+26204	𦈄	^⿲糹⿳巛龱⿳⿰工几一几糸$(G)
 U+26205	𦈅	^⿰糹⿱畾宜$(GT)
 U+26206	𦈆	^⿱紋寶$(T)
-U+26207	𦈇	^⿱⿴𦥑矛⿲糸冏糸$(GT)
+U+26207	𦈇	^⿱⿴𦥑矛⿲糹冏糸$(G)	^⿱⿴𦥑矛⿲糸冏糸$(T)
 U+26208	𦈈	^⿰纟斥$(G)
 U+26209	𦈉	^⿰纟军$(G)
 U+2620A	𦈊	^⿰纟巫$(G)
@@ -56866,7 +56866,7 @@ U+27172	𧅲	^⿱艹𡈹$(GT)
 U+27173	𧅳	^⿱艹𪋘$(GT)
 U+27174	𧅴	^⿱艹𩐐$(T)
 U+27175	𧅵	^⿱艹顰$(H)
-U+27176	𧅶	^⿱艹⿵門⿲糸丨虫$(T)
+U+27176	𧅶	^⿱艹⿵門⿲糹丨虫$(T)
 U+27177	𧅷	^⿱艹⿰白學$(T)
 U+27178	𧅸	^⿱艹𪉷$(GT)
 U+27179	𧅹	^⿱艹⿰幸⿹勹魚$(G)
