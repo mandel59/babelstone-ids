@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.1 (September 2023)
 # Total entries: 97,680
-# File Date: 2024-06-30
+# File Date: 2024-07-19
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -56720,7 +56720,7 @@ U+27074	𧁴	^⿱艹劍$(V)
 U+27075	𧁵	^⿱艹撫$(V)
 U+27076	𧁶	^⿱艹⿸广⿱{68}𡉀$(V)	^⿱艹⿸厂⿱{68}𡉀$(UCS2003)	^⿱艹廛$(Z)	^⿱艹𠪨$(Z)	*U+27076(V) was ^⿱艹廛$ before Unicode 6.0
 U+27077	𧁷	^⿰苦庫$(V)
-U+27078	𧁸	^⿱艹彙$(V)
+U+27078	𧁸	^⿱艹⿳彑宀果$(V)	^⿱艹彙$(Z)
 U+27079	𧁹	^⿰庫苦$(V)
 U+2707A	𧁺	^⿱艹緘$(V)
 U+2707B	𧁻	^⿳艹㱕⿰𠂇十$(T)	^⿳艹㱕廾$(Z)
