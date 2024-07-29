@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.1 (September 2023)
 # Total entries: 97,680
-# File Date: 2024-07-20
+# File Date: 2024-07-28
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -32144,7 +32144,7 @@ U+21074	𡁴	^⿰口團$(G)
 U+21075	𡁵	^⿰口緊$(H)
 U+21076	𡁶	^⿰口截$(H)
 U+21077	𡁷	^⿲口豕⿱𱼀寸$(H)
-U+21078	𡁸	^⿰口𨻶$(H)
+U+21078	𡁸	^⿰口𨻶$(H)	^⿰口隙$(Z)
 U+21079	𡁹	^⿰口誘$(V)
 U+2107A	𡁺	^⿰口滾$(V)
 U+2107B	𡁻	^⿰口趙$(H)
@@ -62101,7 +62101,7 @@ U+28579	𨕹	^⿺辶桓$(G)
 U+2857A	𨕺	^⿺辶𧥢$(G)
 U+2857B	𨕻	^⿺辶⿱日艮$(G)
 U+2857C	𨕼	^⿺辵⿰亻⿱火𠬞$(GT)
-U+2857D	𨕽	^⿺辵⿱入疌$(GT)
+U+2857D	𨕽	^⿺辵⿱入疌$(GT)	*U+2857D(T) was ^⿺辵⿱𠆢疌$ in Unicode 5.2
 U+2857E	𨕾	^⿺辶疾$(G)
 U+2857F	𨕿	^⿺辶⿰⿹弓土王$(G)
 U+28580	𨖀	^⿺辶⿳䶹一虫$(G)	^⿺辶蚩$(Z)
