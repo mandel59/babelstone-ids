@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.1 (September 2023)
 # Total entries: 97,680
-# File Date: 2024-07-28
+# File Date: 2024-08-11
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -26656,7 +26656,7 @@ U+48C7	䣇	^⿰求阝$(GT)
 U+48C8	䣈	^⿰邑邑$(GT)
 U+48C9	䣉	^⿱沙邑$(K)
 U+48CA	䣊	^⿰尚阝$(GT)	^⿰尙阝$(KP)
-U+48CB	䣋	^⿰采阝$(GT)
+U+48CB	䣋	^⿰釆阝$(G)	^⿰采阝$(T)
 U+48CC	䣌	^⿰底阝$(GT)
 U+48CD	䣍	^⿰奄阝$(GTP)
 U+48CE	䣎	^⿰甾阝$(GT)
