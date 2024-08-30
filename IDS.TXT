@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.1 (September 2023)
 # Total entries: 97,680
-# File Date: 2024-08-25
+# File Date: 2024-08-29
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -85888,7 +85888,7 @@ U+2E28E	𮊎	^⿳罓旲巾$(K)
 U+2E28F	𮊏	^⿱㓁㼌$(S)
 U+2E290	𮊐	^⿱罒⿰羊毛$(S)
 U+2E291	𮊑	^⿱罒浮$(S)
-U+2E292	𮊒	^⿱罒⿰䏍⿻厶二$(J)
+U+2E292	𮊒	^⿱罒⿰䏍⿻厶二$(J)	^⿱罒䏻$(Z)
 U+2E293	𮊓	^⿱罓能$(J)
 U+2E294	𮊔	^⿱罓惟$(J)
 U+2E295	𮊕	^⿳罒羽𣄼$(S)
