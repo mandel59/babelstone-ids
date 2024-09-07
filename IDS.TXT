@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.1 (September 2023)
 # Total entries: 97,680
-# File Date: 2024-09-05
+# File Date: 2024-09-06
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -28378,7 +28378,7 @@ U+201BE	𠆾	^⿰亻六$(G)
 U+201BF	𠆿	^⿰亻乌$(G)
 U+201C0	𠇀	^⿱今又$(G)
 U+201C1	𠇁	^⿰亻引$(H)
-U+201C2	𠇂	^⿰亻𠮚$(T)
+U+201C2	𠇂	^⿰亻⿴囗丶$(T)
 U+201C3	𠇃	^⿱𠆢化$(T)
 U+201C4	𠇄	^⿱𠆢天$(T)
 U+201C5	𠇅	^⿰亻⿱一囗$(T)
@@ -30898,7 +30898,7 @@ U+20B96	𠮖	^⿱䜌𠬜$(GT)
 U+20B97	𠮗	^⿳爫⿲糹糹糹又$(G)	^⿳爫⿲糸糸糸又$(T)
 U+20B98	𠮘	^⿰⿳厶山⿵冂不⿳𠮳旧又$(GT)
 U+20B99	𠮙	^⿰口乙$(GTV)
-U+20B9A	𠮚	^⿴囗丶$(GT)
+U+20B9A	𠮚	^⿴口丶$(GT)
 U+20B9B	𠮛	^⿱一口$(GT)
 U+20B9C	𠮜	^⿰口乚$(GT)
 U+20B9D	𠮝	^⿰口丨$(T)
@@ -44662,7 +44662,7 @@ U+2415A	𤅚	^⿰氵舋$(T)
 U+2415B	𤅛	^⿰氵䢉$(GT)
 U+2415C	𤅜	^⿰氵飄$(HV)
 U+2415D	𤅝	^⿰氵𨟍$(GT)
-U+2415E	𤅞	^⿰氵𧅚$(G)
+U+2415E	𤅞	^⿰氵⿱雚又$(G)
 U+2415F	𤅟	^⿰氵露$(H)
 U+24160	𤅠	^⿰氵驀$(GT)
 U+24161	𤅡	^⿰氵𩕍$(GHT)
