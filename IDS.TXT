@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 16.0 (September 2024)
 # Total entries: 97,680
-# File Date: 2024-10-09
+# File Date: 2024-10-16
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -56511,7 +56511,7 @@ U+26F9D	𦾝	^⿱蒼山$(G)
 U+26F9E	𦾞	^⿱艹盝$(G)
 U+26F9F	𦾟	^⿱艹盞$(HT)
 U+26FA0	𦾠	^⿰草余$(V)	^⿰草佘$(UCS2003)	*U+26FA0(V) was ^⿰草佘$ before Unicode 14.0
-U+26FA1	𦾡	^⿱艹⿰女𢕹$(HT)
+U+26FA1	𦾡	^⿱艹媺$(HT)
 U+26FA2	𦾢	^⿱艹椹$(V)
 U+26FA3	𦾣	^⿱艹搉$(V)
 U+26FA4	𦾤	^⿱艹愈$(V)
