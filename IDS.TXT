@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 16.0 (September 2024)
 # Total entries: 97,680
-# File Date: 2024-10-16
+# File Date: 2024-10-18
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -34751,7 +34751,7 @@ U+21A9D	𡪝	^⿱宀卨$(G)
 U+21A9E	𡪞	^⿰客𠮢$(G)
 U+21A9F	𡪟	^⿱宀愔$(GT)
 U+21AA0	𡪠	^⿱宀曾$(GT)
-U+21AA1	𡪡	^⿱宀款$(GT)
+U+21AA1	𡪡	^⿱宀⿰⿱土示欠$(GT)	^⿱宀款$(Z)
 U+21AA2	𡪢	^⿱宀㑴$(GT)
 U+21AA3	𡪣	^⿱宀毳$(GT)
 U+21AA4	𡪤	^⿱宀華$(GT)
@@ -76393,7 +76393,7 @@ U+2BD65	𫵥	^⿰屏召$(V)
 U+2BD66	𫵦	^⿰居於$(V)
 U+2BD67	𫵧	^⿰尽泰$(V)
 U+2BD68	𫵨	^⿰屏制$(V)
-U+2BD69	𫵩	^⿸尸⿰彳⿳一{67}⿵冂𢆉$(J)
+U+2BD69	𫵩	^⿸尸⿰彳⿳一{67}⿵冂𢆉$(J)	^⿸尸𢔸$(Z)
 U+2BD6A	𫵪	^⿸尸興$(G)
 U+2BD6B	𫵫	^⿰屡批$(V)
 U+2BD6C	𫵬	^⿸尸䑂$(G)
