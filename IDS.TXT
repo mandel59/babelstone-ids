@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 16.0 (September 2024)
 # Total entries: 97,680
-# File Date: 2024-10-18
+# File Date: 2024-10-19
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -83787,7 +83787,7 @@ U+2DA53	𭩓	^⿰月罷$(K)
 U+2DA54	𭩔	^⿰望孟$(G)
 U+2DA55	𭩕	^⿰望宜$(G)
 U+2DA56	𭩖	^⿰月⿱賏𠕷$(S)
-U+2DA57	𭩗	^⿰月⿳雨罒巫$(K)
+U+2DA57	𭩗	^⿰月⿳雨罒巫$(K)	^月靈$(Z)
 U+2DA58	𭩘	^⿱木𠃍$(K)
 U+2DA59	𭩙	^⿰木下$(G)
 U+2DA5A	𭩚	^⿰木义$(G)
@@ -89299,13 +89299,13 @@ U+30188	𰆈	^⿱⺊⿵𠘨⿱公天$(G)
 U+30189	𰆉	^⿰⿱⺊𠕁⿱又耳$(G)
 U+3018A	𰆊	^⿹𠃌丨$(U)
 U+3018B	𰆋	^⿰卩卩$(B)
-U+3018C	𰆌	^⿱日卩$(K)
+U+3018C	𰆌	^⿱日𰆊$(K)
 U+3018D	𰆍	^⿰午卩$(B)
 U+3018E	𰆎	^⿰月卪$(S)
-U+3018F	𰆏	^⿱自卩$(K)
-U+30190	𰆐	^⿱里卩$(K)
-U+30191	𰆑	^⿱者卩$(K)
-U+30192	𰆒	^⿱秋卩$(K)
+U+3018F	𰆏	^⿱自𰆊$(K)
+U+30190	𰆐	^⿱里𰆊$(K)
+U+30191	𰆑	^⿱者𰆊$(K)
+U+30192	𰆒	^⿱秋𰆊$(K)
 U+30193	𰆓	^⿰𣷚卪$(S)
 U+30194	𰆔	^⿰韋卵$(G)
 U+30195	𰆕	^⿸厂义$(B)
